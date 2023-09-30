@@ -40,13 +40,6 @@ The Logo Folder Creator is a Python script designed to simplify the process of o
 
 Contributions to this project are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-## Disclaimer
-
-This project is provided as-is, without any warranty or guarantee. Users should exercise caution when using the script and back up their data as needed.
 
 ## Author
 
